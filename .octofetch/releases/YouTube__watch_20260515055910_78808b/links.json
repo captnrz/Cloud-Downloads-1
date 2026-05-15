@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-1432",
+  "folder": "YouTube__watch_20260515055910_78808b",
+  "base_name": "itp_9DP03mc_itp_9DP03mc_360p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/crmcpt/Cloud-Downloads-1/releases/tag/co-releases-v1-1432",
+  "files": [
+    {
+      "name": "itp_9DP03mc_itp_9DP03mc_360p.mp4",
+      "url": "https://github.com/crmcpt/Cloud-Downloads-1/releases/download/co-releases-v1-1432/itp_9DP03mc_itp_9DP03mc_360p.mp4",
+      "api_url": "https://api.github.com/repos/crmcpt/Cloud-Downloads-1/releases/assets/420775220",
+      "id": 420775220,
+      "size": 237788508,
+      "download_count": 0
+    }
+  ]
+}
